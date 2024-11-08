@@ -6,8 +6,13 @@
 🌱 Currently learning advanced JavaScript and exploring backend technologies.
 
 🚀 **Projects**:
-- My World: An educational website about environmental conservation.
-- [Other Projects]
+-siguro ako ay isang editor
+-developer or
+-scienties
+
+*pero ang totoo ako ay isang ordenaryong mangingisda na may mataas na pangarap
+
+-🌍
 
 🌐
 
